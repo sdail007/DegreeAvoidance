@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Vertex:GraphComponents.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;two">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;one">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Edge:GraphComponents.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "&amp;b">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;a">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
